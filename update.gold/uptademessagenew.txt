@@ -8,7 +8,7 @@
     "com.WhatsApp3Plus": "https://t.me/jubatek",
     "com.WhatsApp4Plus": "https://t.me/jubatek",
     "com.WhatsApp5Plus": "https://t.me/jubatek",
-    "update_message": "<p><b>تحديث V11.80</b></p>\n" +
+    "update_message": "<p><b>تحديث V10.88</b></p>\n" +
       "<p><b>تحديث قاعدة الواتساب: 2.25.21.82</b></p>\n" +
       "<li>تفعيل إمكانية إرسال رسائل مباشرة إلى الأشخاص الذين شاهدوا حالتك.</li>\n" +
       "<li>تفعيل إمكانية إيقاف تشغيل الفيديو قبل قبول مكالمات الفيديو الواردة.</li>\n" +
