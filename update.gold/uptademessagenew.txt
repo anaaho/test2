@@ -1,0 +1,35 @@
+{
+  "Gold": {
+    "update_code": "3",
+    "reminder_time": "4",
+    "update_version": "v12.88",
+    "com.whatsapp": "https://t.me/jubatek",
+    "com.WhatsApp2Plus": "https://t.me/jubatek",
+    "com.WhatsApp3Plus": "https://t.me/jubatek",
+    "com.WhatsApp4Plus": "https://t.me/jubatek",
+    "com.WhatsApp5Plus": "https://t.me/jubatek",
+    "update_message": "<p><b>تحديث V11.80</b></p>\n" +
+      "<p><b>تحديث قاعدة الواتساب: 2.25.11.72</b></p>\n" +
+      "<li>تفعيل إمكانية إرسال رسائل مباشرة إلى الأشخاص الذين شاهدوا حالتك.</li>\n" +
+      "<li>تفعيل إمكانية إيقاف تشغيل الفيديو قبل قبول مكالمات الفيديو الواردة.</li>\n" +
+      "<li>تفعيل إمكانية إضافة روابط منصات التواصل الاجتماعي إلى ملفك الشخصي.</li>\n" +
+      "<li>تفعيل إمكانية نشر الحالات تلقائيًا عبر منصات Meta الأخرى مثل Instagram وFacebook.</li>\n" +
+      "<li>تفعيل العديد من المميزات الأخرى.</li>\n" +
+      "<li>تم تحسين ربط الأجهزة.</li>\n" +
+      "<li>تم تحسين الحماية ضد الحظر.</li>\n" +
+      "<li>تم إصلاح مشكلة الانهيار عند تسجيل الصوت.</li>\n" +
+      "<li>إصلاحات وتحسينات أخرى.</li>\n" +
+      "<br>\n" +
+      "<p><b>What's new in update V12.88</b></p>\n" +
+      "<p><b>WhatsApp base update: 2.25.11.72</b></p>\n" +
+      "<li>Enable the ability to send direct messages to people who viewed your status.</li>\n" +
+      "<li>Enable the ability to turn off video before accepting incoming video calls.</li>\n" +
+      "<li>Enable the ability to add social media links to your profile.</li>\n" +
+      "<li>Enable the ability to automatically post statuses to other Meta platforms, such as Instagram and Facebook.</li>\n" +
+      "<li>Enable many other features.</li>\n" +
+      "<li>Improved device linking.</li>\n" +
+      "<li>Anti-ban protection.</li>\n" +
+      "<li>Fixed crash issue when recording audio.</li>\n" +
+      "<li>Fixes and other improvements.</li>"
+  }
+}
