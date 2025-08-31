@@ -1,15 +1,15 @@
 {
   "Gold": {
-    "update_code": "3",
-    "reminder_time": "4",
-    "update_version": "v12.88",
+    "update_code": "1",
+    "reminder_time": "2",
+    "update_version": "v10.88",
     "com.whatsapp": "https://t.me/jubatek",
     "com.WhatsApp2Plus": "https://t.me/jubatek",
     "com.WhatsApp3Plus": "https://t.me/jubatek",
     "com.WhatsApp4Plus": "https://t.me/jubatek",
     "com.WhatsApp5Plus": "https://t.me/jubatek",
     "update_message": "<p><b>تحديث V11.80</b></p>\n" +
-      "<p><b>تحديث قاعدة الواتساب: 2.25.11.72</b></p>\n" +
+      "<p><b>تحديث قاعدة الواتساب: 2.25.21.82</b></p>\n" +
       "<li>تفعيل إمكانية إرسال رسائل مباشرة إلى الأشخاص الذين شاهدوا حالتك.</li>\n" +
       "<li>تفعيل إمكانية إيقاف تشغيل الفيديو قبل قبول مكالمات الفيديو الواردة.</li>\n" +
       "<li>تفعيل إمكانية إضافة روابط منصات التواصل الاجتماعي إلى ملفك الشخصي.</li>\n" +
